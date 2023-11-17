@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ucp2</string>
+    <string name="btnnext">next</string>
+    <string name="btnsubmit">submit</string>
+    <string name="btnback">back</string>
+    <string name="dosenharis">harris</string>
+    <string name="dosencahya">cahya</string>
+    <string name="desenaprilia">aprilia</string>
+    <string name="nama">nama</string>
+    <string name="nim">nim</string>
+    <string name="konsentrasi">konsentrasi</string>
+    <string name="judulskripsi">judul</string>
+</resources>
